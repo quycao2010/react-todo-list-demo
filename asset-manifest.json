@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-todo-list-demo/static/css/main.45996b72.chunk.css",
+    "main.js": "/react-todo-list-demo/static/js/main.ad5b555b.chunk.js",
+    "main.js.map": "/react-todo-list-demo/static/js/main.ad5b555b.chunk.js.map",
+    "runtime~main.js": "/react-todo-list-demo/static/js/runtime~main.c5bca88f.js",
+    "runtime~main.js.map": "/react-todo-list-demo/static/js/runtime~main.c5bca88f.js.map",
+    "static/js/2.1e082df5.chunk.js": "/react-todo-list-demo/static/js/2.1e082df5.chunk.js",
+    "static/js/2.1e082df5.chunk.js.map": "/react-todo-list-demo/static/js/2.1e082df5.chunk.js.map",
+    "index.html": "/react-todo-list-demo/index.html",
+    "precache-manifest.d645ad028b53f77d4233003b19851ccd.js": "/react-todo-list-demo/precache-manifest.d645ad028b53f77d4233003b19851ccd.js",
+    "service-worker.js": "/react-todo-list-demo/service-worker.js",
+    "static/css/main.45996b72.chunk.css.map": "/react-todo-list-demo/static/css/main.45996b72.chunk.css.map",
+    "static/media/logo.svg": "/react-todo-list-demo/static/media/logo.5d5d9eef.svg"
+  }
+}
